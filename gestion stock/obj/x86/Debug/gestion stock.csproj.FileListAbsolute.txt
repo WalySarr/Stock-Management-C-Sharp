@@ -1,0 +1,23 @@
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\bin\Debug\gestion stock.exe
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\bin\Debug\gestion stock.pdb
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\gestion stock.csproj.GenerateResource.Cache
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\gestion stock.exe
+C:\Users\mahir\documents\visual studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\gestion stock.pdb
+C:\Users\mahir\Documents\Visual Studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\gestion stock.csprojResolveAssemblyReference.cache
+C:\Users\mahir\Documents\Visual Studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\mahir\Documents\Visual Studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.MDIParent1.resources
+C:\Users\mahir\Documents\Visual Studio 2010\Projects\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.frmentree.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\gestion stock.exe
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\gestion stock.pdb
+C:\Users\Admin\Desktop\gestion stock\gestion stock\bin\Debug\gestion stock.exe
+C:\Users\Admin\Desktop\gestion stock\gestion stock\bin\Debug\gestion stock.pdb
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\gestion stock.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.frmentree.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.MDIParent1.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\gestion stock\gestion stock\obj\x86\Debug\gestion stock.csproj.GenerateResource.Cache
